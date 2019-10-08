@@ -1,0 +1,15 @@
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\TrendyolAPITests.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\TrendyolAPITests.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\TrendyolAPITests.runtimeconfig.dev.json
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\TrendyolAPITests.dll
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\obj\Debug\netcoreapp2.1\TrendyolAPITests.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\obj\Debug\netcoreapp2.1\TrendyolAPITests.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\obj\Debug\netcoreapp2.1\TrendyolAPITests.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\bin\Debug\netcoreapp2.1\TrendyolAPITests.pdb
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\obj\Debug\netcoreapp2.1\TrendyolAPITests.dll
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\obj\Debug\netcoreapp2.1\TrendyolAPITests.pdb
+C:\Users\bilal\OneDrive\Masaüstü\TrendyolAPITests\TrendyolAPITests\obj\Debug\netcoreapp2.1\TrendyolAPITests.csprojAssemblyReference.cache
